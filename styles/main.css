@@ -1,0 +1,117 @@
+.layout {
+  -fx-background-image: url("/img/main/bg.png");
+  -fx-background-size: 100% 100%;
+  -fx-cursor: url("/img/cursor.png");
+}
+
+.btnConversor {
+  -fx-background-color: #ff6600;
+  -fx-background-image: url("/img/main/btnConversor.png");
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center, center;
+  -fx-background-radius: 20px;
+}
+
+.btnConversor:hover {
+  -fx-background-color: #333;
+  -fx-background-image: url("/img/main/btnConversorHover.png");
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center, center;
+  -fx-cursor: hand;
+}
+
+.btnEletricidade {
+  -fx-background-color: #ff6600;
+  -fx-background-image: url("/img/main/btnEletricidade.png");
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center, center;
+  -fx-background-radius: 20px;
+}
+
+.btnEletricidade:hover {
+  -fx-background-color: #333;
+  -fx-background-image: url("/img/main/btnEletricidadeHover.png");
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center, center;
+  -fx-cursor: hand;
+}
+
+.btnAceleracao {
+  -fx-background-color: #ff6600;
+  -fx-background-image: url("/img/main/btnAceleracao.png");
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center, center;
+  -fx-background-radius: 20px;
+}
+
+.btnAceleracao:hover {
+  -fx-background-color: #333;
+  -fx-background-image: url("/img/main/btnAceleracaoHover.png");
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center, center;
+  -fx-cursor: hand;
+}
+
+.btnGravitacao {
+  -fx-background-color: #ff6600;
+  -fx-background-image: url("/img/main/btnGravitacao.png");
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center, center;
+  -fx-background-radius: 20px;
+}
+
+.btnGravitacao:hover {
+  -fx-background-color: #333;
+  -fx-background-image: url("/img/main/btnGravitacaoHover.png");
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center, center;
+  -fx-cursor: hand;
+}
+
+.btnFormulas {
+  -fx-background-color: #ff6600;
+  -fx-background-image: url("/img/main/btnFormula.png");
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center, center;
+  -fx-background-radius: 20px;
+}
+
+.btnFormulas:hover {
+  -fx-background-color: #333;
+  -fx-background-image: url("/img/main/btnFormulaHover.png");
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center, center;
+  -fx-cursor: hand;
+}
+
+.btnDoar {
+  -fx-background-color: #ff6600;
+  -fx-background-image: url("/img/main/btnDoar.png");
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center, center;
+  -fx-background-radius: 20px;
+}
+
+.btnDoar:hover {
+  -fx-background-color: #333;
+  -fx-background-image: url("/img/main/btnDoarHover.png");
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center, center;
+  -fx-cursor: hand;
+}
+
+.btnSair {
+  -fx-background-color: #ff6600;
+  -fx-background-image: url("/img/main/btnSair.png");
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center, center;
+  -fx-background-radius: 20px;
+}
+
+.btnSair:hover {
+  -fx-background-color: #333;
+  -fx-background-image: url("/img/main/btnSairHover.png");
+  -fx-background-repeat: no-repeat;
+  -fx-background-position: center, center;
+  -fx-cursor: hand;
+}
